@@ -18,7 +18,7 @@
       </ul>
     </td>
     <td valign="middle" width="35%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; border-radius: 10px;" />
+      <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://miro.medium.com/1%2AuYkZXXw-QL-N_1gVndPH9A.gif)" alt="Coding GIF" style="max-width: 100%; height: auto; border-radius: 10px;" />
     </td>
   </tr>
 </table>
