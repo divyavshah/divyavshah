@@ -14,7 +14,7 @@
         <li>🌱 Exploring <strong>React</strong>, <strong>Node.js</strong>, <strong>Supabase</strong>, <strong>Tailwind CSS</strong></li>
         <li>💬 Ask me about <strong>Frontend Development</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>SQL</strong>, <strong>Python</strong></li>
         <li>📍 Based in India</li>
-        <li>📫 Reach me: <strong>your.email@example.com</strong></li>
+        <li>📫 Reach me: <strong>work.divyashah@gmail.com</strong></li>
       </ul>
     </td>
     <td valign="middle" width="35%" align="center">
@@ -26,10 +26,9 @@
 ---
 
 ## 🔗 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.divyashah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyavshah)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyavshah)
 
 ---
 
@@ -47,25 +46,48 @@
 
 ---
 
-## 🚀 Featured Projects
-- [*Digital Society Maintenance & Management System*](https://github.com/yourusername/Society-Management-System) – A full-stack application for managing residential society maintenance, complaints, and notices with real-time Supabase backend.
-- [*User Authentication System*](https://github.com/yourusername/User-Authentication-System) – A secure login and registration system with hashed passwords and role-based access.
-- [*Round Robin CPU Scheduler Simulator*](https://github.com/yourusername/Round-Robin-Simulator) – An educational OS simulation tool to visualize round robin scheduling.
+## 🚀 Projects
+
+- **Digital Society Maintenance System** *(In Progress)* 🏢  
+  Built a full-stack web app using **React (TypeScript)**, **Supabase**, and **Tailwind CSS** to manage residential society operations.  
+  **Features:** Role-based login, maintenance tracking, resident management, complaints, notices, real-time updates.  
+  **Tech:** React, TypeScript, Supabase, Tailwind, PDF Gen.
+
+- **Loop Timer** ⏱  
+  A productivity-focused **Android application** using **Kotlin** that allows users to create and manage custom timer-based schedules.  
+  **Tech:** Kotlin, Android, Material UI.
+
+- **User Registration Module** 🧾  
+  A reusable **Kotlin Android module** for secure user registration with input validation and error handling.  
+  **Tech:** Kotlin, Java, Oracle, XML.
+
+- **Round Robin Process Simulator** 🧠  
+  An interactive desktop simulator built with **Python & Tkinter** to demonstrate the Enhanced Round Robin CPU scheduling algorithm.  
+  **Tech:** Python, Tkinter, CPU Scheduling.
 
 ---
 
 ## 🛠 Mini Projects
-- *To-Do List* – Task manager app in JavaScript with local storage support.
-- *Quiz App* – Python Tkinter app for multiple-choice quizzes with scoring.
-- *Snake Game* – Classic snake game built in Python using Turtle graphics.
-- *Password Manager* – Desktop app to store and generate secure passwords.
-- *Paddle Battle* – Two-player Python game using Turtle graphics.
+
+- **Food Delivery Time Predictor** 🍔  
+  Predicts food delivery time based on location, weather, and traffic using machine learning.  
+  **Tech:** Python, Tkinter, Pandas, Sklearn.
+
+- **Number to Words Converter** 🔢  
+  Converts numbers (up to 15 digits) to words with TTS, clipboard copy, and save-to-file features.  
+  **Tech:** Python, Tkinter, gTTS.
+
+- **Typing Speed Tester** ⌨️  
+  Measures WPM and accuracy with real-time results and skill-level tags.  
+  **Tech:** Python, Tkinter.
+
+- **Dictation Tool** 🗣  
+  Reads aloud selected/full text from Word/PDF files with adjustable speed and pause/resume support.  
+  **Tech:** Python, Tkinter, pyttsx3, PyMuPDF.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 ---
 
