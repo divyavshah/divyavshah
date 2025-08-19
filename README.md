@@ -1,8 +1,6 @@
 <!-- Profile Title -->
 # Hi there 👋, I'm Divya Shah  
-🚀 Aspiring Full Stack Developer | 💻 Problem Solver | 🌱 Curious Learner  
-
----
+🚀 Aspiring Software Developer | 🌱 Inquisitive Learner  | 💻 Problem Solver
 
 ## 🧑‍💻 About Me
 
@@ -12,7 +10,7 @@
       <ul>
         <li>🎓 Currently pursuing <strong>Master of Computer Application (MCA)</strong></li>
         <li>🌱 Exploring <strong>React</strong>, <strong>Node.js</strong>, <strong>Supabase</strong>, <strong>Tailwind CSS</strong></li>
-        <li>💬 Ask me about <strong>Frontend Development</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>SQL</strong>, <strong>Python</strong></li>
+        <li>💬 Ask me about <strong>Web Development</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>Android Development</strong>, <strong>SQL</strong></li>
         <li>📍 Based in India</li>
         <li>📫 Reach me: <strong>work.divyashah@gmail.com</strong></li>
       </ul>
@@ -23,33 +21,28 @@
   </tr>
 </table>
 
----
-
 ## 🔗 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.divyashah@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyavshah)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyavshah)
 
----
-
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
 
 ## 🚀 Projects
 
 - **Digital Society Maintenance System** *(In Progress)* 🏢  
-  Built a full-stack web app using **React (TypeScript)**, **Supabase**, and **Tailwind CSS** to manage residential society operations.  
+  Built a full-stack web app using **ReactJS**, **Supabase**, and **Tailwind CSS** to manage residential society operations.  
   **Features:** Role-based login, maintenance tracking, resident management, complaints, notices, real-time updates.  
   **Tech:** React, TypeScript, Supabase, Tailwind, PDF Gen.
 
@@ -64,8 +57,6 @@
 - **Round Robin Process Simulator** 🧠  
   An interactive desktop simulator built with **Python & Tkinter** to demonstrate the Enhanced Round Robin CPU scheduling algorithm.  
   **Tech:** Python, Tkinter, CPU Scheduling.
-
----
 
 ## 🛠 Mini Projects
 
@@ -85,11 +76,5 @@
   Reads aloud selected/full text from Word/PDF files with adjustable speed and pause/resume support.  
   **Tech:** Python, Tkinter, pyttsx3, PyMuPDF.
 
----
-
-
-
----
-
 ## ✍ Quote of the Day
-> "Code is like humor. When you have to explain it, it’s bad."
+> "Curiosity fuels my code, and code fuels my curiosity."
